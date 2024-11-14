@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+#web-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 3em;
+}
